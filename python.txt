@@ -1,0 +1,8 @@
+introduction to python
+Python is a programming language widely used in IT sector.It was created by Guido van Rossum and released in 1991,
+It is widely used for:
+web development
+software development
+system scripting....etc
+hhii 
+fuck
